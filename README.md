@@ -26,6 +26,10 @@
 
 なお、招待講演等は含まれていません。会誌『自然言語処理』は対象外です。
 
+## 使用例
+
+* [misc/anlp-jp-trends.ipynb](misc/anlp-jp-trends.ipynb)
+
 ## License
 
 スクリプトは [MIT License](http://whym.mit-license.org/) で利用可能です。
