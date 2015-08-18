@@ -38,3 +38,7 @@
 ## 配布元
 
 https://github.com/whym/anlp-jp-history
+
+## 参考文献
+
+[Anderson, Ashton  and  Jurafsky, Dan  and  McFarland, Daniel A., "Towards a Computational History of the ACL: 1980-2008" (2012)](http://www.aclweb.org/anthology/W12-3202)
