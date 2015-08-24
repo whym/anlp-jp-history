@@ -24,7 +24,9 @@
 * 著者（講演者）の所属・連絡先
 * ページ番号
 
-なお、招待講演等は含まれていません。会誌『自然言語処理』は対象外です。
+なお、招待講演等は含まれていません。論文誌『自然言語処理』は対象外です。
+
+[ANLP-20コーパス](http://nlp20.nii.ac.jp/resources/)（言語処理学会、国立情報学研究所、東京大学 知の構造化センター）には書誌情報に加えて本文等がついており、年次大会予稿集と論文誌『自然言語処理』とが含まれています。
 
 ## 使用例
 
@@ -41,4 +43,5 @@ https://github.com/whym/anlp-jp-history
 
 ## 参考文献
 
-[Anderson, Ashton  and  Jurafsky, Dan  and  McFarland, Daniel A., "Towards a Computational History of the ACL: 1980-2008" (2012)](http://www.aclweb.org/anthology/W12-3202)
+* [増田勝也, 丹治信, 植松すみれ, 美馬秀樹. "研究動向分析のための論文のデジタルテキスト化とマイニングシステム", 言語処理学会第20回年次大会, 792-795, 2014.](http://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/E5-2.pdf)
+* [Anderson, Ashton  and  Jurafsky, Dan  and  McFarland, Daniel A., "Towards a Computational History of the ACL: 1980-2008" (2012)](http://www.aclweb.org/anthology/W12-3202)
